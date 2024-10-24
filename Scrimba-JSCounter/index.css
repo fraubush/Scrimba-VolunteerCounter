@@ -1,0 +1,61 @@
+body {
+    background-image: url(BRC-the-man.jpg);
+    background-size: cover;
+    font-family: Oxygen, -apple-system, BlinkMacSystemFont, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    text-shadow: 0px 0px 10px black;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    text-shadow: 0px 0px 5px black;
+    
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: black;
+    text-shadow: 0px 0px 5px white;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+}
+
+.container {
+    background-color: rgb(0 0 0 / .5);
+    border-radius: 20px;
+    border: 1px solid white;
+    max-width: 400px;
+    margin: auto;
+    padding: 10px 20px;
+
+}
+
+#increment-btn {
+    background-image: linear-gradient(violet, blue);
+    color: white;
+
+}
+
+#save-btn {
+    color: black;
+    background-image: linear-gradient(lime, yellow);
+    
+}
+
+
+
